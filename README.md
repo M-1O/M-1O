@@ -1,8 +1,16 @@
+<h1 align="center">Hi 👋, I'm Jean</h1>
 <h3 align="center">A passionate mobile developer</h3>
+
+- 🌱 I’m currently learning **SwiftUI**
+
+- 💬 Ask me about **flutter**
+
+- 📫 How to reach me **mukhamejan.omar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mu_omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mu_omar" height="30" width="40" /></a>
+<a href="https://medium.com/@mukhamejan.omar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mukhamejan.omar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
