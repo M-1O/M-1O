@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean</h1>
-<h3 align="center">A passionate mobile developer</h3>
+<h3 align="center">A passionate Mobile SWE</h3>
 
 - 🔭 I’m currently working in **Brain Rocket**
 
